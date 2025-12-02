@@ -18,4 +18,3 @@
 4. Перевірка збірки:
     npm run preview
 
-![alt text](image.png)
